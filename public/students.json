@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "name": "تلميذ تجريبي",
+    "key": "123456",
+    "type": "free",
+    "dailyLimit": 4,
+    "validUntil": "2026-12-31"
+  },
+  {
+    "id": "2",
+    "name": "تلميذ مميز",
+    "key": "premium_user",
+    "type": "premium",
+    "dailyLimit": 10,
+    "validUntil": "2026-12-31"
+  }
+]
